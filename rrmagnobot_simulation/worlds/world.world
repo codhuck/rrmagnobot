@@ -436,7 +436,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/yaroslav/ros2_ws/src/rrmagnobot/rrmagnobot_simulation/meshes/reser_link.stl</uri>
+              <uri>../meshes/reser_link.stl</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
@@ -457,7 +457,7 @@
           <pose>0 0 0 0 -0 0</pose>
           <geometry>
             <mesh>
-              <uri>/home/yaroslav/ros2_ws/src/rrmagnobot/rrmagnobot_simulation/meshes/reser_link.stl</uri>
+              <uri>../meshes/reser_link.stl</uri>
               <scale>1 1 1</scale>
             </mesh>
           </geometry>
