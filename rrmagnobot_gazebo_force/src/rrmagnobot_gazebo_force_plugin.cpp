@@ -15,7 +15,7 @@ namespace rrmagnobot_gazebo_force
 
   void RRMagnobotGazeboForcePlugin::OnUpdate()
   {
-    ignition::math::Vector3d force(0, 0, -1000000);
+    ignition::math::Vector3d force(0, 0, -100000000);
     this->model->GetLink("body_link")->SetForce(force);
   }
 
