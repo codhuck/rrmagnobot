@@ -1,0 +1,4 @@
+source;share/rrmagnobot_simulation/local_setup.bash
+source;share/rrmagnobot_simulation/local_setup.dsv
+source;share/rrmagnobot_simulation/local_setup.sh
+source;share/rrmagnobot_simulation/local_setup.zsh
